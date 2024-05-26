@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="5dp"
+    android:layout_height="wrap_content">
+
+
+    <Button
+        android:id="@+id/category_name"
+        android:padding="5dp"
+        android:backgroundTint="@color/Ezemkofi"
+        android:text="Nescafe"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
